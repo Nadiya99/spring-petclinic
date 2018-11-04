@@ -1,9 +1,9 @@
 # Spring PetClinic Sample Application [![Build Status](https://travis-ci.org/spring-projects/spring-petclinic.png?branch=master)](https://travis-ci.org/spring-projects/spring-petclinic/)
 
-##Understanding the Spring Petclinic application with a few diagrams
+## Understanding the Spring Petclinic application with a few diagrams
 <a href="https://speakerdeck.com/michaelisvy/spring-petclinic-sample-application">See the presentation here</a>
 
-##Running petclinic locally
+## Running petclinic locally
 Petclinic is a https://spring.io/guides/gs/spring-boot[Spring Boot] application built using https://spring.io/guides/gs/maven/[Maven]. You can build a jar file and run it from the command line:
 
 
@@ -40,7 +40,7 @@ You could start MySql locally with whatever installer works for your OS, or with
 docker run -e MYSQL_ROOT_PASSWORD=petclinic -e MYSQL_DATABASE=petclinic -p 3306:3306 mysql:5.7.8
 ```
 
-##Working with Petclinic in your IDE
+## Working with Petclinic in your IDE
 
 ### prerequisites
 The following items should be installed in your system:
